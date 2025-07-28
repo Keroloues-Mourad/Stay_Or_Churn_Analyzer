@@ -3,7 +3,7 @@ Modern website that predicts whether a customer will churn or stay
 
 💡 Customer Churn Predictor
 
-This is an interactive and modern Streamlit website designed to predict customer churn for telecom services.
+This is an interactive and modern website designed to predict customer churn for telecom services.
 It leverages a logistic regression model trained on preprocessed Telco customer data.
 
 The app allows users to simulate customer profiles by answering intuitive Yes/No questions using a clean visual interface and provides real time predictions in the form of percentage.
