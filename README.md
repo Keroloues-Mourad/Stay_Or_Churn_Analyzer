@@ -6,13 +6,13 @@ Modern website that predicts whether a customer will churn or stay
 This is an interactive and modern Streamlit website designed to predict customer churn for telecom services.
 It leverages a logistic regression model trained on preprocessed Telco customer data.
 
-The app allows users to simulate customer profiles by answering intuitive Yes/No questions using a clean visual interface — with green for "Yes" and red for "No" — and provides real-time predictions in the form of churn probability.
+The app allows users to simulate customer profiles by answering intuitive Yes/No questions using a clean visual interface and provides real time predictions in the form of percentage.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Easy-to-use web interface using [Streamlit](https://streamlit.io)
+
 - 📊 Predicts whether a customer is likely to **churn** or **stay**
 - 🎨 Intuitive Yes/No radio buttons with visual cues (no 0/1)
 - 🎯 Custom threshold logic for improved recall
@@ -35,10 +35,6 @@ The app allows users to simulate customer profiles by answering intuitive Yes/No
 └── README.md               # Project documentation
 ```
 
----
-
-
----
 
 ## 📬 Try It Online
 
