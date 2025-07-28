@@ -38,7 +38,7 @@ The app allows users to simulate customer profiles by answering intuitive Yes/No
 
 ## 📬 Try It Online
 
-👉 [Launch the app on Streamlit Cloud](https://share.streamlit.io/yourusername/customer-churn-predictor/main/app.py)
+👉 [Launch the app on Streamlit Cloud]([[https://share.streamlit.io/yourusername/customer-churn-predictor/main/app.py](https://stay-or-churn-analyzer-by-keroloues-mourad.streamlit.app/)
 
 ---
 
