@@ -45,7 +45,7 @@ The app allows users to simulate customer profiles by answering intuitive Yes/No
 ## 📊 Dataset Info
 
 This model is trained on the "Telco Customer Churn" dataset available via Kaggle.
-It includes customer demographics, account info, internet/phone service details, and churn labels.
+It includes customer demographics, account info, internet/phone service details and churn labels.
 
 ---
 
