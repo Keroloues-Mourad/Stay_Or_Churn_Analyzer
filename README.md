@@ -1,4 +1,4 @@
-# Stay_Or_Leave_Analyzer
+# Stay_Or_Churn_Analyzer
 Modern website that predicts whether a customer will churn or stay 
 
 💡 Customer Churn Predictor
